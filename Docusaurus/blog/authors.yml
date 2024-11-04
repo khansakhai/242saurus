@@ -1,3 +1,39 @@
+arishashaista:
+  name: Arisha Shaista Aurelya
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/arishashaista
+  image_url: https://github.com/arishashaista.png
+  page: true
+  socials:
+    github: arishashaista
+
+cleoexcel:
+  name: Cleo Excellen Iskandar
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/cleoexcel
+  image_url: https://github.com/cleoexcel.png
+  page: true
+  socials:
+    github: cleoexcel
+
+freiazulaika:
+  name: Freia Arianti Zulaika
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/freiazulaika
+  image_url: https://github.com/freiazulaika.png
+  page: true
+  socials:
+    github: freiazulaika
+
+khansakhai:
+  name: Khansa Khairunisa
+  title: CS Student in Universitas Indonesia
+  url: https://github.com/khansakhai
+  image_url: https://github.com/khansakhai.png
+  page: true
+  socials:
+    github: khansakhai
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
